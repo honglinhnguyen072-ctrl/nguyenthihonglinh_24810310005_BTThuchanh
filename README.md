@@ -4,7 +4,7 @@
 - **Họ và tên:** NGUYỄN THỊ HỒNG LINH
 - **Mã số sinh viên:** [24810310005]
 - **Lớp:** D19QTANM1
-- **Tên môn học:** Lập trình C# /THỰC HÀNH 10/10
+- **Tên môn học:** Lập trình C# /THỰC HÀNH 10-10-2026
 - **Tên bài tập:**  BÀI TẬP THỰC HÀNH
 
 ---
